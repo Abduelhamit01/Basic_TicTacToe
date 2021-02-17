@@ -1,5 +1,5 @@
 package com.company;
-//comment
+//comments
 import java.util.*;
 
 public class Basic_TicTacToe {
